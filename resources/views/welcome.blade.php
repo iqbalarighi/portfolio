@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
         @vite(['resources/sass/app.scss', 'resources/js/app.js'])
-        <title>Laravel</title>
+        <title>Portfolio Iqbal Arighi</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -216,14 +216,16 @@
                     </div>
                 </div>
 
-                <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
-                    <div class="text-center text-sm sm:text-left">
-                        &nbsp;
+                <div class="flex justify-content-center mt-16 px-0 sm:items-center sm:justify-between">
+                    {{-- <div class="text-center text-sm sm:text-left">
+                        &nbsp;sdssdfsdfsf
+                    </div> --}}
+
+
+                    <div class="text-sm text-gray-500 dark:text-gray-400 sm:text-right sm:ml-0">
+                        M. Iqbal Arighi Alfarisi &copy; All Right Reserved {{Carbon\Carbon::now()->parse()->isoFormat("YYYY")}}
                     </div>
 
-                    <div class="text-center text-sm text-gray-500 dark:text-gray-400 sm:text-right sm:ml-0">
-                        Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
-                    </div>
                 </div>
             </div>
         </div>
