@@ -130,7 +130,7 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">About me</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed" style="text-align: justify;">
-                                    Lulusan S1 Jurusan Teknik Informatika UNPAM. Lulus dengan IPK 3,08 pada 2017 dalam waktu 5 tahun. Menguasai bahasa program HTML, PHP, css, javascript dan mysql database. Berpengalaman dalam membangun website mulai dari nol, natif hingga menggunakan framework Laravel. 
+                                    Lulusan S1 Jurusan Teknik Informatika UNPAM. Lulus dengan IPK 3,08 pada 2017. Menguasai bahasa program HTML, PHP, css, javascript dan mysql database. Berpengalaman dalam membangun website mulai dari nol, natif hingga menggunakan framework Laravel. 
                                 <br><br>
                                     Punya kepribadian yang gigih dan pantang menyerah. Memiliki manajemen waktu yang baik. 
                                 </p>
